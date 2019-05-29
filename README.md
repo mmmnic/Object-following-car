@@ -1,4 +1,5 @@
 # Object-following-car
+(the main file name is "Object-following-car.py")
 
 Automatic car using raspberry pi 3 B+, Opencv and Python to develop.
 The car following a tennis ball.
